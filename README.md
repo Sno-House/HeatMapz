@@ -53,3 +53,4 @@ Red is in continuous development, and it’s supported by an active community wh
 Released under the [GNU GPL v3](LICENSE).
 
 *Red is named after the main character of "Transistor", a videogame by [Supergiant Games](https://www.supergiantgames.com/games/transistor/)*
+# HeatMapz
